@@ -79,4 +79,26 @@ Key modules implemented in Verilog:
 
 ## Hardware Implementation
 
-Successfully deployed and tested on **Xilinx Kria KV260** AI
+Successfully deployed and tested on **Xilinx Kria KV260** AI Vision board.
+
+![Kria KV260 Implementation](images/kria.png)
+
+Real-time mode switching and voltage scaling on hardware matched the simulation results.
+
+---
+
+## Tools Used
+
+- **Xilinx Vivado** – RTL Design, Simulation & Implementation
+- **Python / Google Colab** – Decision Tree ML model
+- **Xilinx Kria KV260** – Hardware validation
+
+---
+
+## Author
+
+**Bejish S**  
+VLSI Design & Technology  
+Chennai Institute of Technology  
+
+[GitHub](https://github.com/bejish)
